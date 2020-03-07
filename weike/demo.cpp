@@ -2,7 +2,6 @@
 using namespace std;
 int main()
 {
-	cout << "suning" << endl;
-	cout << "hello--SN";
+	cout << "hello" << endl;
 	return 0;
 }
