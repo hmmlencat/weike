@@ -3,6 +3,6 @@ using namespace std;
 int main()
 {
 	cout << "suning" << endl;
-	cout << "qasswaaqss";
+	cout << "qasswqwaaqss";
 	return 0;
 }
